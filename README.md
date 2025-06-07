@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Prabodh-dev
+- 👀 I’m interested in backend development, APIs, and building scalable backend apps using Node.js
+- 🌱 I’m currently working on projects using Node.js, Express, MongoDB, and Mongoose
+- 💞️ I’m looking to collaborate on open-source projects related to backend development using Node.js and automation
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love solving coding challenges and enjoy gaming in my free time!
