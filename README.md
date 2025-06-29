@@ -5,7 +5,7 @@
 
 ### 💫 About Me
 
-🚀 I recently completed my deep dive into **Backend Development** (Node.js + Express + MongoDB + Prisma)  
+🚀 I recently completed my deep dive into **Backend Development** (Node.js + Express + MongoDB + Mongoose)  
 🔧 Now venturing into **DevOps** and **Data Science**, combining system reliability with intelligent systems  
 🧠 I’m always exploring how code can solve real-world problems efficiently  
 📚 I believe great software comes from consistent learning & thoughtful execution  
