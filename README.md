@@ -1,6 +1,79 @@
-- 👋 Hi, I’m @Prabodh-dev
-- 👀 I’m interested in backend development, APIs, and building scalable backend apps using Node.js
-- 🌱 I’m currently working on projects using Node.js, Express, MongoDB, and Mongoose
-- 💞️ I’m looking to collaborate on open-source projects related to backend development using Node.js and automation
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love solving coding challenges and enjoy gaming in my free time!
+<h1 align="center">Hey there 👋, I'm Prabodh Raj U R</h1>
+<h3 align="center">Backend Developer | DevOps Explorer | Curious Learner | API Craftsman</h3>
+
+---
+
+### 💫 About Me
+
+🚀 I recently completed my deep dive into **Backend Development** (Node.js + Express + MongoDB + Prisma)  
+🔧 Now venturing into **DevOps** and **Data Science**, combining system reliability with intelligent systems  
+🧠 I’m always exploring how code can solve real-world problems efficiently  
+📚 I believe great software comes from consistent learning & thoughtful execution  
+🎯 Motto: *“Build fast, break smarter, and always optimize”*
+
+---
+
+### 🔗 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prabodhrajur)
+
+---
+
+### 🛠️ My Tech Stack
+
+**Languages:**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+**Backend:**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) 
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)  
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)  
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=prisma&logoColor=white)  
+![NeonDB](https://img.shields.io/badge/Neon-000000?style=flat&logo=data:image/svg+xml;base64,...&logoColor=white)
+
+**DevOps & Tools:**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black)  
+![Railway](https://img.shields.io/badge/Railway-000000?style=flat&logo=railway&logoColor=white)
+
+---
+
+### 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=prabodhrajur&theme=gruvbox)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prabodhrajur&show_icons=true&theme=radical&hide_border=true" width="47%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=prabodhrajur&theme=radical&hide_border=true" width="47%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabodhrajur&layout=compact&theme=radical&hide_border=true" width="47%"/>
+</div>
+
+---
+
+### ✍️ Random Dev Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+### 👁️‍🗨️ Profile Visitors
+
+![Visitors](https://komarev.com/ghpvc/?username=prabodhrajur&label=Profile%20views&color=blue&style=flat)
+
+---
+
+### 🔮 TL;DR
+
+> _“I don’t chase code perfection—I chase code improvement. Every line I write is better than the last.”_
+
+---
