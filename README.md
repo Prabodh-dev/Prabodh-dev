@@ -42,34 +42,11 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=prabodhrajur&theme=gruvbox)
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prabodhrajur&show_icons=true&theme=radical&hide_border=true" width="47%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=prabodhrajur&theme=radical&hide_border=true" width="47%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabodhrajur&layout=compact&theme=radical&hide_border=true" width="47%"/>
-</div>
-
----
-
 ### ✍️ Random Dev Quote
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-
-### 👁️‍🗨️ Profile Visitors
-
-![Visitors](https://komarev.com/ghpvc/?username=prabodhrajur&label=Profile%20views&color=blue&style=flat)
 
 ---
 
