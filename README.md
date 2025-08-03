@@ -42,17 +42,14 @@
 
 ---
 
-### ✍️ Random Dev Quote
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Prabodh-dev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 📊 GitHub Stats
+![Prabodh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prabodh-dev&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prabodh-dev&layout=compact&theme=radical)
 
-----
+## 🔥 GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=Prabodh-dev&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
----
-
-### 🔮 TL;DR
-
-> _“I don’t chase code perfection—I chase code improvement. Every line I write is better than the last.”_
-
----
 
