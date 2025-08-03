@@ -46,7 +46,7 @@
 [![Trophy](https://github-profile-trophy.vercel.app/?username=Prabodh-dev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📊 GitHub Stats
-![Prabodh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prabodh-dev&show_icons=true&theme=radical)
+![Prabodh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prabodh-dev&show_icons=true&hide_title=true&hide_rank=true&hide=issues&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prabodh-dev&layout=compact&theme=radical)
 
 ## 🔥 GitHub Streak
