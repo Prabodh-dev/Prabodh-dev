@@ -43,11 +43,11 @@
 ---
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Prabodh-dev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Prabodh-dev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📊 GitHub Stats
 ![Prabodh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prabodh-dev&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prabodh-dev&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prabodh-dev&layout=compact&theme=radical)
 
 ## 🔥 GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=Prabodh-dev&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
