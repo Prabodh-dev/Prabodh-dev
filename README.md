@@ -51,4 +51,5 @@
 ![Prabodh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prabodh-dev&show_icons=true&hide_title=true&hide_rank=true&hide=issues&theme=radical)
 
 ## 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=Prabodh-dev&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://streak-stats.demolab.com?user=Prabodh-dev)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prabodh-dev&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://github-readme-streak-stats.herokuapp.com/?user=Prabodh-dev)
+
