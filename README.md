@@ -24,6 +24,7 @@
 **Languages:**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
 **Backend:**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
@@ -37,6 +38,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black)
 ![Railway](https://img.shields.io/badge/Railway-000000?style=flat&logo=railway&logoColor=white)
 
@@ -47,9 +49,6 @@
 
 ## 📊 GitHub Stats
 ![Prabodh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prabodh-dev&show_icons=true&hide_title=true&hide_rank=true&hide=issues&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prabodh-dev&layout=compact&theme=radical)
 
 ## 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=Prabodh-dev&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Prabodh-dev&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://streak-stats.demolab.com?user=Prabodh-dev)
