@@ -5,7 +5,7 @@
 
 ### 💫 About Me
 
-🚀 **2x Intern** — currently building full-stack & deployment pipelines, previously engineered backend systems with LLM integration in production  
+🚀 **3x Intern** — currently building full-stack & deployment pipelines, previously engineered backend systems with LLM integration in production  
 ⚡ I build end-to-end products with **React · Next.js · Node.js · Docker · PostgreSQL · LLMs**  
 🤖 Passionate about integrating **AI/LLM pipelines** into real-world backend workflows  
 ☁️ Exploring **cloud infrastructure**, **DevOps**, and scalable microservices architecture  
