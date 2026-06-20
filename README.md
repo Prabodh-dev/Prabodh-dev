@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Prabodh Raj U R</h1>
-<h3 align="center">Full Stack Developer | LLM Systems | 2x Intern | SRM IST CSE '28</h3>
+<h3 align="center">Full Stack Developer | LLM Systems | 3x Intern | SRM IST CSE '28</h3>
 
 ---
 
