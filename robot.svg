@@ -1,0 +1,81 @@
+<svg viewBox="0 0 800 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#00ff9f" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <!-- background -->
+  <rect x="0" y="0" width="800" height="180" rx="12" fill="#0f0c29"/>
+  <rect x="0" y="0" width="800" height="180" rx="12" fill="url(#grid)"/>
+
+  <!-- corner HUD brackets -->
+  <g stroke="#00ff9f" stroke-width="2" fill="none" opacity="0.8">
+    <path d="M 12 32 L 12 12 L 32 12"/>
+    <path d="M 768 12 L 788 12 L 788 32"/>
+    <path d="M 788 148 L 788 168 L 768 168"/>
+    <path d="M 32 168 L 12 168 L 12 148"/>
+  </g>
+
+  <!-- pulsing corner nodes -->
+  <g fill="#00ff9f">
+    <circle cx="40" cy="40" r="3"><animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite"/></circle>
+    <circle cx="760" cy="40" r="3"><animate attributeName="opacity" values="1;0.2;1" dur="2s" begin="0.5s" repeatCount="indefinite"/></circle>
+    <circle cx="760" cy="140" r="3"><animate attributeName="opacity" values="1;0.2;1" dur="2s" begin="1s" repeatCount="indefinite"/></circle>
+    <circle cx="40" cy="140" r="3"><animate attributeName="opacity" values="1;0.2;1" dur="2s" begin="1.5s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- patrol path (faint) -->
+  <path d="M 40 40 L 760 40 L 760 140 L 40 140 Z" fill="none" stroke="#00ff9f" stroke-opacity="0.15" stroke-width="1" stroke-dasharray="6 8">
+    <animate attributeName="stroke-dashoffset" from="0" to="-28" dur="1.5s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- center text -->
+  <text x="400" y="82" text-anchor="middle" font-family="'Courier New', monospace" font-size="22" font-weight="bold" fill="#00ff9f" filter="url(#glow)">PRABODH RAJ U R</text>
+  <text x="400" y="106" text-anchor="middle" font-family="'Courier New', monospace" font-size="13" fill="#7df9ff" opacity="0.9">// software developer — systems online</text>
+
+  <!-- the robot -->
+  <g filter="url(#glow)">
+    <animateMotion dur="10s" repeatCount="indefinite" path="M 40 40 L 760 40 L 760 140 L 40 140 Z" keyPoints="0;0.375;0.5;0.875;1" keyTimes="0;0.375;0.5;0.875;1"/>
+    <g>
+      <!-- bobbing -->
+      <animateTransform attributeName="transform" type="translate" values="0 0; 0 -2; 0 0" dur="0.6s" repeatCount="indefinite" additive="sum"/>
+      <!-- antenna -->
+      <line x1="0" y1="-16" x2="0" y2="-22" stroke="#00ff9f" stroke-width="2"/>
+      <circle cx="0" cy="-24" r="2.5" fill="#ff003c">
+        <animate attributeName="opacity" values="1;0.2;1" dur="0.8s" repeatCount="indefinite"/>
+      </circle>
+      <!-- head -->
+      <rect x="-10" y="-16" width="20" height="14" rx="3" fill="#0f0c29" stroke="#00ff9f" stroke-width="2"/>
+      <!-- eyes -->
+      <rect x="-6" y="-12" width="4" height="4" fill="#00ff9f">
+        <animate attributeName="height" values="4;0.5;4" dur="3s" keyTimes="0;0.05;0.1" repeatCount="indefinite"/>
+      </rect>
+      <rect x="2" y="-12" width="4" height="4" fill="#00ff9f">
+        <animate attributeName="height" values="4;0.5;4" dur="3s" keyTimes="0;0.05;0.1" repeatCount="indefinite"/>
+      </rect>
+      <!-- body -->
+      <rect x="-8" y="0" width="16" height="12" rx="2" fill="#0f0c29" stroke="#00ff9f" stroke-width="2"/>
+      <rect x="-4" y="3" width="8" height="3" fill="#7df9ff" opacity="0.8">
+        <animate attributeName="opacity" values="0.8;0.2;0.8" dur="1.2s" repeatCount="indefinite"/>
+      </rect>
+      <!-- arms -->
+      <line x1="-8" y1="4" x2="-13" y2="8" stroke="#00ff9f" stroke-width="2" stroke-linecap="round"/>
+      <line x1="8" y1="4" x2="13" y2="8" stroke="#00ff9f" stroke-width="2" stroke-linecap="round"/>
+      <!-- legs -->
+      <line x1="-4" y1="12" x2="-4" y2="17" stroke="#00ff9f" stroke-width="2" stroke-linecap="round">
+        <animate attributeName="y2" values="17;15;17" dur="0.3s" repeatCount="indefinite"/>
+      </line>
+      <line x1="4" y1="12" x2="4" y2="17" stroke="#00ff9f" stroke-width="2" stroke-linecap="round">
+        <animate attributeName="y2" values="15;17;15" dur="0.3s" repeatCount="indefinite"/>
+      </line>
+    </g>
+  </g>
+</svg>
