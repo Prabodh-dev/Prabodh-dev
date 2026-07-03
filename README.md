@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:0f0c29,50:302b63,100:24243e&text=PRABODH%20RAJ%20U%20R&fontColor=00ff9f&fontSize=50&animation=fadeIn&desc=Software%20Developer&descAlignY=65&descSize=20" width="100%"/>
+<img src="./robot.svg" width="100%" alt="patrol bot"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF9F&center=true&vCenter=true&width=600&lines=Building+Production+Systems;Engineering+AI+Agents;Deploying+on+Cloud+Infrastructure;3x+Intern+%7C+SRM+IST+CSE+'28" alt="Typing SVG" />
-
-<img src="./robot.svg" width="100%" alt="patrol bot"/>
 
 </div>
 
