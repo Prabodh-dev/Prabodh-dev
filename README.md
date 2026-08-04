@@ -15,7 +15,7 @@ prabodh@dev:~$ whoami
 ```yaml
 name: Prabodh Raj U R
 role: Software Developer
-experience: 3x Intern — full-stack delivery, LLM systems in production, deployment pipelines
+experience: 4x Intern — full-stack delivery, LLM systems in production, deployment pipelines
 education: B.Tech CSE @ SRM IST (2024–2028)
 ```
 
