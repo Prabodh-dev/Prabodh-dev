@@ -30,6 +30,24 @@ prabodh@dev:~$ status
 + [ACTIVE]  Working with distributed systems · Cloud architecture · MLOps
 ```
 
+```bash
+prabodh@dev:~$ git stats
+```
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="165"/>
+
+<br/>
+
+<img src="https://img.shields.io/github/issues-search?query=author%3AYOUR_USERNAME%20type%3Apr&label=PRs%20created&color=00ff9f&labelColor=0f0c29&style=for-the-badge"/>
+<img src="https://img.shields.io/github/issues-search?query=author%3AYOUR_USERNAME%20type%3Apr%20is%3Amerged&label=PRs%20merged&color=00ff9f&labelColor=0f0c29&style=for-the-badge"/>
+<img src="https://img.shields.io/github/issues-search?query=author%3AYOUR_USERNAME%20type%3Apr%20is%3Amerged%20-user%3AYOUR_USERNAME&label=Merged%20in%20others'%20repos&color=00ff9f&labelColor=0f0c29&style=for-the-badge"/>
+<img src="https://img.shields.io/github/issues-search?query=user%3AYOUR_USERNAME%20type%3Apr%20is%3Amerged%20-author%3AYOUR_USERNAME&label=Others'%20PRs%20I%20merged&color=00ff9f&labelColor=0f0c29&style=for-the-badge"/>
+
+</div>
+
 ---
 
 <div align="center">
